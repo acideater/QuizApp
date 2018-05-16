@@ -60,7 +60,8 @@ The code is properly formatted i.e. there are no unnecessary blank lines; there 
 The code also has proper indentation when defining variables and methods.
 
 ## Screenshots
-*soon*
+<img src="https://github.com/acideater/QuizApp/blob/master/screenshots/pythonquiz1.png" width="180"> <img src="https://github.com/acideater/QuizApp/blob/master/screenshots/pythonquiz4.png" width="180"> <img src="https://github.com/acideater/QuizApp/blob/master/screenshots/pythonquiz3.png" width="180"> <img src="https://github.com/acideater/QuizApp/blob/master/screenshots/pythonquiz2.png" width="180">
+
 
 ## Author
 
