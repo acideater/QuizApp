@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Python Quiz</string>
+    <string name="intro">Welcome to "Python Quiz"!
+        \nThis is a beginners level quiz about the basics of programming and logic.
+        The language used is, obviously, Python!
+        \nThe quiz consists of five questions: a free-text question, a multiple right answers question,
+        and three single right answer questions.
+        \nGood luck and enjoy!</string>
+    <string name="name">Let\'s start by adding your name here</string>
+
+    <string name="q1">Question #1 Which number(s) will be printed?</string>
+    <string name="a11">30</string>
+    <string name="a12">1020</string>
+    <string name="a13">10 20</string>
+    <string name="a14">10+20</string>
+
+    <string name="q2">Question #2 Considering the order of operations, what would be printed?</string>
+    <string name="a21">8 / -12 / 64</string>
+    <string name="a24">6 / -12 / 2</string>
+    <string name="a22">6 / -12 / 16</string>
+    <string name="a23">6 / -64 / 2</string>
+
+    <string name="q3">Question #3 There is an error in the program below that is causing an infinite loop. The intent of this program is
+    to print as many /"hello/" as the number of people (n). Fix the line that is wrong and write it below.</string>
+    <string name="a31">Input your code here (use space between characters)</string>
+
+    <string name="q4">Question #4 Calculate the results of the expression below using the values proposed in each case:</string>
+    <string name="a41">Case 1: False / Case 2: False</string>
+    <string name="a42">Case 1: False / Case 2: True</string>
+    <string name="a43">Case 1: True / Case 2: True</string>
+    <string name="a44">Case 1: True / Case 2: False</string>
+
+    <string name="q5">Question #5 Mark all the options that prints a list that include the three original Star Wars movies
+        ("A New Hope", "Empire Strikes Back" and "Return of the Jedi")</string>
+    <string name="a51">print ( movies[3 : 6] )</string>
+    <string name="a52">print ( movies[0 : 3] )</string>
+    <string name="a53">print ( movies[0 : 8] )</string>
+    <string name="a54">print ( movies[6 : 8] )</string>
+
+    <string name="submit">Result</string>
+    <string name="reset">Reset</string>
+    <string name="score_text">Total score: </string>
+    <string name="score">0/5</string>
+    <string name="total">/5</string>
+
+</resources>
